@@ -43,7 +43,7 @@ go run main.go
 Пример *json запроса* для создания нового пользователя. Для удобного тестирования можно использовать программу **Postman**.
 ```json
 {
-	"name": "Marshall Mathers",
+    "name": "Marshall Mathers",
     "email": "marshall.m@gmail.com"
 }
 ```
